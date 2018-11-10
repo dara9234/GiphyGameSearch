@@ -1,0 +1,78 @@
+body{
+    font: 18px arial, sans-serif;
+    background: url("../images/olympic01.jpg");
+        background-repeat: no-repeat; 
+        margin-left: 15%;
+    
+}
+
+#searches{
+    width: 70%
+}
+
+
+
+.search-item{
+    float:left;
+    padding:10px;
+}
+
+form{
+
+    width: 30%;
+    float: right;
+    padding:30px;
+    align-content: center;
+    margin-top: 10px;
+}
+
+label{
+
+    display: block;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+input[type ="text"]{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30px;
+    font-size: 18px;
+}
+
+button,
+input[type="submit"]{
+    background: black;
+   
+    color:red;
+    border-radius: 0;
+    padding: 5px 20px;
+    font-size: 18px;
+    margin: 0 10px 10px 0;
+    cursor: pointer;
+    font-weight: 700;
+    box-shadow: 2px 2px 3px #bbb;
+}
+
+h1
+ {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color:darkblue;
+  margin-top: 20px;
+ 
+
+}
+
+h4
+ {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color:darkblue;
+  margin-top: 100px;
+ 
+
+}
+
+
+
