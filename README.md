@@ -11,4 +11,4 @@ Pseudocode:
 6. Clicking back to the still image makes the giph move again.
 7. I can add a new food button to the intial populated buttons on the page by typing in the text box and clicking on the submit button.
 8. The new button gets added to the array and loops through.
-9. By clicking the newly added button from the user also brings down 10 giphs from the server as others already populated buttons from my array, and reponds the same (When clicking on the image, it moves, clicking back makes the image stop and again clicking back the image will make it move again)
+9. By clicking the newly added button from the user also brings down 10 giphs from the server as others already populated buttons from my array, and reponds the same (When clicking on the image, it moves, clicking back makes the image stop and again clicking back the image will make it move again)gi
